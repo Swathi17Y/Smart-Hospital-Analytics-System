@@ -1,10 +1,10 @@
 
-# 🏥 Smart Hospital Analytics System  
+# Smart Hospital Analytics System  
 **A Healthcare Data Analytics Project using Python, Machine Learning & Power BI**
 
 ---
 
-## 🎯 Objective
+## Objective
 To build a data-driven decision support system for hospitals that:
 - Predicts **patient no-shows**
 - Forecasts **bed & ICU utilization**
@@ -14,18 +14,18 @@ This project integrates predictive modeling and business intelligence to optimiz
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 | Module | Description | Tools Used |
 |--------|--------------|------------|
-| 🩺 Patient No-Show Prediction | Predicts which patients are likely to skip appointments | Python (Logistic Regression), Power BI |
-| 🏥 Resource Forecasting | Forecasts daily hospital & ICU bed utilization | SARIMAX (Statsmodels) |
-| 🌡️ Disease Outbreak Detection | Predicts case surges using rainfall, temperature, humidity | Random Forest Regressor |
-| 📊 Dashboard | Interactive Power BI dashboard with KPIs & trends | Power BI, DAX, Plotly |
+| Patient No-Show Prediction | Predicts which patients are likely to skip appointments | Python (Logistic Regression), Power BI |
+| Resource Forecasting | Forecasts daily hospital & ICU bed utilization | SARIMAX (Statsmodels) |
+| Disease Outbreak Detection | Predicts case surges using rainfall, temperature, humidity | Random Forest Regressor |
+| Dashboard | Interactive Power BI dashboard with KPIs & trends | Power BI, DAX, Plotly |
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 **Languages:** Python  
 **Libraries:** pandas, numpy, scikit-learn, statsmodels, matplotlib  
 **BI Tool:** Power BI  
@@ -37,5 +37,5 @@ This project integrates predictive modeling and business intelligence to optimiz
 
 ---
 
-## 🧩 Folder Structure
+
 
